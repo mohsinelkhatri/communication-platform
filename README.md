@@ -156,7 +156,7 @@ PROJECTFIN/
 <h2 align="center">⚙️ Installation & Setup</h2>
 
 <h3>1️⃣ Clone the project</h3>
-<pre><code>git clone https://github.com/your-repo/projectfin.git
+<pre><code>git clone https://github.com/your-repo/communication-platform.git
 cd projectfin
 </code></pre>
 
