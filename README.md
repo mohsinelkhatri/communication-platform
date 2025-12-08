@@ -217,7 +217,7 @@ npm start
 <h2 align="center">👤 Author</h2>
 
 <p>
-<strong>Mohsine El K.</strong><br>
+<strong>Mohsine El Khatri.</strong><br>
 Technicien Spécialisé en Réseaux Informatiques – Promotion 2022
 </p>
 
